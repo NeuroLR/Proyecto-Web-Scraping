@@ -1,0 +1,16 @@
+1. El decidí resolver el problema dividiendo el codigo en 3 partes para enfocarme en cada
+punto del ejercicio en concreto. Para la parte de web scraping, creé una única clase llamada
+"QuoteManager" con la que hago uso de las librerías de BeautifulSoup y requests. El motivo 
+por el cual utilicé estas librerías es porque, al ser mi primera vez haciendo
+web scraping, quería utilizar librerías no muy complejas y fáciles de usar.
+
+La base de datos que elegí es MySQL porque ya tenia conocimientos previos y me pareció una buena
+oportunidad para demostrar mis conocimientos que adquirí a lo largo de estos años.
+La sección de la base de datos consta de 4 clases, cada una con una tarea específica relacionada
+con realizar consultas sql como creación de tablas, inserción de datos y lectura de datos.
+
+2. Este proyecto me ayudó positivamente ya que pude plasmar mi conocimiento y, al mismo tiempo,
+tuve la oportunidad de conocer algo nuevo como el web scraping el cual me resultó sencillo
+porque al tener conocimientos sobre HTML, el uso de la misma se simplificaba en gran medida.
+Por otro lado si bien ya contaba con experiencia utilizando MySQL, esta fue la primera vez que
+utlizo python para hacer las consultas.
